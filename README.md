@@ -12,9 +12,9 @@ UNDER DEVELOPMENT
 - template
 
 
-## Direct ancestors - also by code
+## Direct ancestors
 
-[*cra-starter*](https://github.com/softspiders/cra-maven-war-starter)
+[cra-starter](https://github.com/softspiders/cra-maven-war-starter)
 
 ## Requirements
 
