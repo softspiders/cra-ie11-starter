@@ -14,7 +14,7 @@ UNDER DEVELOPMENT
 
 ## Direct ancestors
 
-[cra-starter](https://github.com/softspiders/cra-maven-war-starter)
+[cra-starter](https://github.com/softspiders/cra-starter)
 
 ## Requirements
 
