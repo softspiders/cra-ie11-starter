@@ -11,10 +11,18 @@ UNDER DEVELOPMENT
 - starter
 - template
 
+---
 
 ## Direct ancestors
 
 [cra-starter](https://github.com/softspiders/cra-starter)
+
+
+## Direct descendants
+
+[cra-react-bootstrap-responsive-starter](https://github.com/softspiders/cra-react-bootstrap-responsive-starter)
+
+---
 
 ## Requirements
 
