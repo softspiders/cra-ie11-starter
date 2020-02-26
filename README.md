@@ -20,7 +20,7 @@ UNDER DEVELOPMENT
 
 ## Direct descendants
 
-[cra-react-bootstrap-responsive-starter](https://github.com/softspiders/cra-react-bootstrap-responsive-starter)
+[cra-react-bootstrap-responsive-starter](https://github.com/softspiders/cra-react-bootstrap-responsive-starter) +{*react-bootstrap*, *responsive*}
 
 ---
 
