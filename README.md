@@ -1,45 +1,41 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# *cra-ie11-starter*
+# cra-ie11-starter
 
-Minimalistic [*create-react-app*](https://github.com/facebook/create-react-app) starter that supports Microsoft Internet Explorer 11
+*Create React App* starter which support Internet Explorer 11
+
+UNDER DEVELOPMENT
 
 ## Feature tags
 
-- build
 - create-react-app
+- ie11
 - starter
 - template
 
-## Direct anchestors - also by code
+---
 
-[cra-starter](https://github.com/softspiders/cra-starter)
+## Direct ancestors
 
-## Direct descendants - also by code
+[cra-starter](https://github.com/softspiders/cra-starter) -{*ie11*}
 
-[cra-react-bootstrap-responsive-starter](https://github.com/softspiders/cra-react-bootstrap-responsive-starter), 
-[cra-react-router-ie11-starter](https://github.com/softspiders/cra-react-router-ie11-starter)
+
+## Direct descendants
+
+[cra-react-bootstrap-responsive-starter](https://github.com/softspiders/cra-react-bootstrap-responsive-starter) +{*react-bootstrap*, *responsive*}
+
+---
 
 ## Requirements
 
 * [*create-react-app*](https://facebook.github.io/create-react-app/)
-* [*JDK*](https://java.com/ru/download/) >= 1.5
 * [*Node*](https://nodejs.org/en/download/package-manager/)
 
-## Run
 
-Run [*http://localhost:8080/cra-ie11*](http://localhost:8080/cra-ie11) from the browser
+## Author
 
-## Authors
-
-[Romanov Aleksey](https://github.com/AlexanderLapygin)
-
-## Inspired by
-
-[*Deploy React Applications in a Servlet Environment*](https://www.megadix.it/blog/create-react-app-servlet/) by
-[Dimitri De Franciscis (megadix)](https://github.com/megadix)
+[remitot](https://github.com/remitot)
 
 ### License
 
-Licensed under the [MIT license](./LICENSE). 
-
+Licensed under the [MIT license](./LICENSE).
