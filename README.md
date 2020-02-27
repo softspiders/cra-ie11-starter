@@ -15,13 +15,10 @@
 
 ## Direct ancestors
 
-[cra-starter](https://github.com/softspiders/cra-starter) -{*ie11*}
-[- ie11](https://github.com/softspiders/cra-starter)
+[-*ie11*](https://github.com/softspiders/cra-starter)
 
 
 ## Direct descendants
-
-[cra-react-bootstrap-responsive-starter](https://github.com/softspiders/cra-react-bootstrap-responsive-starter) +{*react-bootstrap*, *responsive*}
 
 [+*react-bootstrap*, *responsive*](https://github.com/softspiders/cra-react-bootstrap-responsive-starter)
 
