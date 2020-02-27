@@ -4,8 +4,6 @@
 
 *Create React App* starter which support Internet Explorer 11
 
-UNDER DEVELOPMENT
-
 ## Feature tags
 
 - create-react-app
