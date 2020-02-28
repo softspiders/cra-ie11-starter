@@ -15,7 +15,7 @@
 
 ## Direct ancestors
 
-[-*ie11*](https://github.com/softspiders/cra-starter)
+[-*ie11*: cra-starter](https://github.com/softspiders/cra-starter)
 
 
 ## Direct descendants
