@@ -20,7 +20,7 @@
 
 ## Direct descendants
 
-[+*react-bootstrap*, *responsive*](https://github.com/softspiders/cra-react-bootstrap-responsive-starter)
+[+*typescript*: cra-ts-ie11-starter](https://github.com/Jepria/cra-ts-ie11-starter)
 
 ---
 
