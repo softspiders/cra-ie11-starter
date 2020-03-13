@@ -26,7 +26,7 @@
 
 ## Requirements
 
-* [*create-react-app*](https://facebook.github.io/create-react-app/)
+* [*Ceate React App*](https://facebook.github.io/create-react-app/)
 * [*Node*](https://nodejs.org/en/download/package-manager/)
 
 
